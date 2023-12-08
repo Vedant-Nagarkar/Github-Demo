@@ -1,4 +1,7 @@
 # Github-Demo
-This is my first git repository.
+
+This is my first Git Repository.
 <br>
-Author - Vedant Nagarkar
+Author - Vedant M. Nagarkar
+
+
